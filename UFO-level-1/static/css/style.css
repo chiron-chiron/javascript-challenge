@@ -8,6 +8,7 @@ body {
   height: 100%;
   padding: 0;
   margin: 0;
+  background-color: #2e0202;
 }
 
 /* The wrapper contains all of the page's content besides the footer, which is pushed to the bottom of the page */
@@ -41,6 +42,7 @@ body {
 .navbar {
   padding: 5px;
   margin: 0;
+  background-color:#3d0404;
 }
 
 /* This CSS styles the ufo icon in the navbar */
@@ -98,7 +100,7 @@ select {
   padding: 20px;
   margin: 0;
   background: black;
-  background-image: url("../images/nasa.jpg");
+  background-image: url("../images/ufo2.jpg");
   background-attachment: fixed;
   background-position: bottom center;
   background-size: cover;
